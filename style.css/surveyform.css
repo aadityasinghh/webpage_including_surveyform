@@ -1,0 +1,12 @@
+form{
+    background-color: rgb(243, 232, 214)
+}
+h1{
+    text-align: center;
+    background-color: rgb(248, 240, 228);
+    padding: 2px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 24px; 
+}

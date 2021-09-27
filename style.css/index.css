@@ -1,0 +1,29 @@
+.a {
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+nav{
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+h1,p{
+text-align: center;
+}
+a{
+     text-decoration: none;
+     color: black;
+     padding: 10px;
+ }
+
+ button{
+     align-items: center;
+     padding: 10px;
+     margin: 50px;
+     color: blue;
+ }
+ footer{
+     background-color:blanchedalmond ;
+     padding:1px;
+ }
